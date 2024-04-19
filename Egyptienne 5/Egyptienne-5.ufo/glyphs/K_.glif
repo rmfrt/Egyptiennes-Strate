@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+  <advance width="1003"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="50.379" y="689.34" type="line"/>
+      <point x="491.21" y="689.34" type="line"/>
+      <point x="491.21" y="590.72" type="line"/>
+      <point x="363.991" y="590.72" type="line"/>
+      <point x="363.991" y="97.62" type="line"/>
+      <point x="491.21" y="97.62" type="line"/>
+      <point x="491.21" y="-1" type="line"/>
+      <point x="50.379" y="-1" type="line"/>
+      <point x="50.379" y="97.62" type="line"/>
+      <point x="177.599" y="97.62" type="line"/>
+      <point x="177.599" y="590.72" type="line"/>
+      <point x="50.379" y="590.72" type="line"/>
+    </contour>
+    <contour>
+      <point x="545.451" y="689.34" type="line"/>
+      <point x="982.338" y="689.34" type="line"/>
+      <point x="982.338" y="590.72" type="line"/>
+      <point x="831.449" y="590.72" type="line"/>
+      <point x="620.403" y="441.804" type="line"/>
+      <point x="829.477" y="97.62" type="line"/>
+      <point x="982.338" y="97.62" type="line"/>
+      <point x="982.338" y="-1" type="line"/>
+      <point x="545.451" y="-1" type="line"/>
+      <point x="545.451" y="97.62" type="line"/>
+      <point x="633.223" y="97.62" type="line"/>
+      <point x="484.307" y="356.004" type="line"/>
+      <point x="360.046" y="270.205" type="line"/>
+      <point x="360.046" y="390.521" type="line"/>
+      <point x="659.851" y="590.72" type="line"/>
+      <point x="545.451" y="590.72" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="700"/>
+  <guideline angle="90" x="1257" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>lsb("I")</string>
+  </dict>
+  </lib>
+</glyph>

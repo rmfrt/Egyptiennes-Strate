@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="2">
+  <advance width="838"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="50" y="700" type="line"/>
+      <point x="497" y="700" type="line"/>
+      <point x="497" y="600" type="line"/>
+      <point x="368" y="600" type="line"/>
+      <point x="368" y="100" type="line"/>
+      <point x="688" y="100" type="line"/>
+      <point x="688" y="262" type="line"/>
+      <point x="788" y="262" type="line"/>
+      <point x="788" y="0" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="50" y="100" type="line"/>
+      <point x="179" y="100" type="line"/>
+      <point x="179" y="600" type="line"/>
+      <point x="50" y="600" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="0"/>
+  <guideline angle="0" x="0" y="700"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>lsb("I")</string>
+  </dict>
+  </lib>
+</glyph>
