@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="q" format="2">
   <advance width="625"/>
   <unicode hex="0071"/>
+  <guideline y="0"/>
+  <guideline y="500"/>
   <outline>
     <contour>
       <point x="338" y="452" type="curve"/>
@@ -47,6 +49,4 @@
       <point x="341" y="131" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="0"/>
-  <guideline angle="0" x="0" y="500"/>
 </glyph>

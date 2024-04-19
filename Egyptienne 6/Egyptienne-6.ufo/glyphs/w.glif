@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w" format="2">
   <advance width="1154"/>
   <unicode hex="0077"/>
+  <guideline y="0"/>
+  <guideline y="501"/>
+  <guideline y="420"/>
   <outline>
     <contour>
       <point x="252" y="0" type="line"/>
@@ -41,7 +44,4 @@
       <point x="91" y="420" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="0"/>
-  <guideline angle="0" x="0" y="501"/>
-  <guideline angle="0" x="0" y="420"/>
 </glyph>

@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
   <advance width="418"/>
   <unicode hex="0074"/>
+  <guideline y="0"/>
+  <guideline y="700"/>
+  <guideline y="500"/>
+  <guideline y="412"/>
   <outline>
     <contour>
       <point x="79" y="700" type="curve"/>
@@ -36,14 +40,10 @@
       <point x="79" y="700"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="0"/>
-  <guideline angle="0" x="0" y="700"/>
-  <guideline angle="0" x="0" y="500"/>
-  <guideline angle="0" x="0" y="412"/>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,0.6,1,1</string>
+    </dict>
   </lib>
 </glyph>

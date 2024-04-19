@@ -1,7 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="d" format="2">
   <advance width="653"/>
   <unicode hex="0064"/>
+  <guideline y="0"/>
+  <guideline y="699"/>
+  <guideline x="573"/>
+  <guideline y="-10"/>
+  <guideline x="305"/>
+  <guideline x="226"/>
   <anchor x="1998" y="2043" name="top"/>
   <anchor x="1998" y="-4652" name="bottom"/>
   <outline>
@@ -44,10 +50,4 @@
       <point x="372" y="114"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="0"/>
-  <guideline angle="0" x="0" y="699"/>
-  <guideline angle="90" x="573" y="0"/>
-  <guideline angle="0" x="0" y="-10"/>
-  <guideline angle="90" x="305" y="0"/>
-  <guideline angle="90" x="226" y="0"/>
 </glyph>
