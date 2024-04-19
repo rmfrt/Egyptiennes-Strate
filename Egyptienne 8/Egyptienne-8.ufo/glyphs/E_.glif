@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="1322"/>
+  <unicode hex="0045"/>
+  <guideline y="700"/>
+  <guideline y="0"/>
+  <outline>
+    <contour>
+      <point x="60" y="700" type="line"/>
+      <point x="1262" y="700" type="line"/>
+      <point x="1262" y="460" type="line"/>
+      <point x="1102" y="460" type="line"/>
+      <point x="1102" y="584" type="line"/>
+      <point x="547" y="584" type="line"/>
+      <point x="547" y="429" type="line"/>
+      <point x="877" y="429" type="line"/>
+      <point x="877" y="519" type="line"/>
+      <point x="1024" y="519" type="line"/>
+      <point x="1024" y="181" type="line"/>
+      <point x="877" y="181" type="line"/>
+      <point x="877" y="271" type="line"/>
+      <point x="547" y="271" type="line"/>
+      <point x="547" y="116" type="line"/>
+      <point x="1102" y="116" type="line"/>
+      <point x="1102" y="240" type="line"/>
+      <point x="1262" y="240" type="line"/>
+      <point x="1262" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="124" type="line"/>
+      <point x="169" y="124" type="line"/>
+      <point x="169" y="576" type="line"/>
+      <point x="60" y="576" type="line"/>
+    </contour>
+  </outline>
+</glyph>

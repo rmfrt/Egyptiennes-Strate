@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="1312"/>
+  <unicode hex="0046"/>
+  <guideline x="60"/>
+  <guideline x="1360"/>
+  <guideline y="0"/>
+  <guideline y="700"/>
+  <guideline x="893"/>
+  <guideline x="547"/>
+  <outline>
+    <contour>
+      <point x="60" y="700" type="line"/>
+      <point x="1262" y="700" type="line"/>
+      <point x="1262" y="464" type="line"/>
+      <point x="1098" y="464" type="line"/>
+      <point x="1098" y="582" type="line"/>
+      <point x="548" y="582" type="line"/>
+      <point x="548" y="422" type="line"/>
+      <point x="893" y="422" type="line"/>
+      <point x="893" y="502" type="line"/>
+      <point x="1017" y="502" type="line"/>
+      <point x="1017" y="204" type="line"/>
+      <point x="893" y="204" type="line"/>
+      <point x="893" y="284" type="line"/>
+      <point x="548" y="284" type="line"/>
+      <point x="548" y="124" type="line"/>
+      <point x="657" y="124" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="124" type="line"/>
+      <point x="169" y="124" type="line"/>
+      <point x="169" y="576" type="line"/>
+      <point x="60" y="576" type="line"/>
+    </contour>
+  </outline>
+</glyph>

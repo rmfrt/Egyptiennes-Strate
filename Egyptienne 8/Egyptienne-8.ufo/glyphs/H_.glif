@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="1508"/>
+  <unicode hex="0048"/>
+  <guideline y="0"/>
+  <guideline y="700"/>
+  <guideline x="1449"/>
+  <guideline x="60"/>
+  <guideline x="169"/>
+  <guideline x="548"/>
+  <guideline x="657"/>
+  <guideline x="851"/>
+  <guideline x="960"/>
+  <guideline x="1339"/>
+  <outline>
+    <contour>
+      <point x="60" y="576" type="line"/>
+      <point x="169" y="576" type="line"/>
+      <point x="169" y="124" type="line"/>
+      <point x="60" y="124" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="657" y="0"/>
+      <point x="657" y="124"/>
+      <point x="657" y="124" type="curve"/>
+      <point x="548" y="124" type="line"/>
+      <point x="548" y="274" type="line"/>
+      <point x="960" y="274" type="line"/>
+      <point x="960" y="124" type="line"/>
+      <point x="851" y="124" type="line"/>
+      <point x="851" y="0" type="line"/>
+      <point x="1448" y="0" type="line"/>
+      <point x="1448" y="124" type="line"/>
+      <point x="1339" y="124" type="line"/>
+      <point x="1339" y="576" type="line"/>
+      <point x="1448" y="576" type="line"/>
+      <point x="1448" y="700" type="line"/>
+      <point x="851" y="700" type="line"/>
+      <point x="851" y="576" type="line"/>
+      <point x="960" y="576" type="line"/>
+      <point x="960" y="426" type="line"/>
+      <point x="548" y="426" type="line"/>
+      <point x="548" y="576" type="line"/>
+      <point x="657" y="576" type="line"/>
+      <point x="657" y="700" type="line"/>
+      <point x="460" y="700"/>
+      <point x="257" y="700"/>
+      <point x="60" y="700" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
