@@ -7,18 +7,24 @@
   <guideline x="208"/>
   <outline>
     <contour>
-      <point x="10.64" y="-0.25" type="line"/>
-      <point x="113.82" y="-0.25" type="line"/>
-      <point x="113.82" y="39.548" type="line"/>
-      <point x="101.291" y="39.548" type="line"/>
-      <point x="101.291" y="660.102" type="line"/>
-      <point x="113.82" y="660.102" type="line"/>
-      <point x="113.82" y="699.9" type="line"/>
-      <point x="10.64" y="699.9" type="line"/>
-      <point x="10.64" y="660.102" type="line"/>
-      <point x="24.643" y="660.102" type="line"/>
-      <point x="24.643" y="39.548" type="line"/>
-      <point x="10.64" y="39.548" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="114" y="40" type="line"/>
+      <point x="101" y="40" type="line"/>
+      <point x="101" y="660" type="line"/>
+      <point x="114" y="660" type="line"/>
+      <point x="114" y="700" type="line"/>
+      <point x="11" y="700" type="line"/>
+      <point x="11" y="660" type="line"/>
+      <point x="25" y="660" type="line"/>
+      <point x="25" y="40" type="line"/>
+      <point x="11" y="40" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-19 07:38:31 +0000</string>
+    </dict>
+  </lib>
 </glyph>

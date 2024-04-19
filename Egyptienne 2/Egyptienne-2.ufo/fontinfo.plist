@@ -35,8 +35,10 @@
     <integer>5</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-20</integer>
+      <integer>-10</integer>
       <integer>0</integer>
+      <integer>700</integer>
+      <integer>710</integer>
     </array>
     <key>postscriptFontName</key>
     <string>Egyptienne2-Regular</string>
