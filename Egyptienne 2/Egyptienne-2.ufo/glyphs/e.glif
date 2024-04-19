@@ -1,7 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="e" format="2">
   <advance width="244"/>
   <unicode hex="0065"/>
+  <guideline y="332"/>
+  <guideline y="201"/>
+  <guideline y="525"/>
+  <guideline x="123"/>
+  <guideline y="0"/>
+  <guideline y="530"/>
   <outline>
     <contour>
       <point x="15" y="111" type="line" smooth="yes"/>
@@ -44,10 +50,4 @@
       <point x="95" y="473"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="332"/>
-  <guideline angle="0" x="0" y="201"/>
-  <guideline angle="0" x="0" y="525"/>
-  <guideline angle="90" x="123" y="0"/>
-  <guideline angle="0" x="0" y="0"/>
-  <guideline angle="0" x="0" y="530"/>
 </glyph>

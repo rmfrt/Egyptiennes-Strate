@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="X" format="2">
   <advance width="348"/>
   <unicode hex="0058"/>
+  <guideline y="700"/>
+  <guideline y="0"/>
+  <guideline y="665"/>
+  <guideline x="122"/>
+  <guideline x="213"/>
+  <guideline x="334"/>
   <outline>
     <contour>
-      <point x="212.623" y="-0.865306" type="line"/>
-      <point x="322.802" y="-0.311907" type="line"/>
+      <point x="212.623" y="-0.86531" type="line"/>
+      <point x="322.802" y="-0.31191" type="line"/>
       <point x="322.577" y="30.2434" type="line"/>
       <point x="306.255" y="29.9771" type="line"/>
       <point x="110.448" y="664.879" type="line"/>
@@ -18,8 +24,8 @@
       <point x="211.496" y="30.9802" type="line"/>
     </contour>
     <contour>
-      <point x="122.424" y="-0.824306" type="line"/>
-      <point x="12.2448" y="-0.270907" type="line"/>
+      <point x="122.424" y="-0.82431" type="line"/>
+      <point x="12.2448" y="-0.27091" type="line"/>
       <point x="12.4702" y="30.2844" type="line"/>
       <point x="28.7923" y="30.0181" type="line"/>
       <point x="224.599" y="664.92" type="line"/>
@@ -32,10 +38,4 @@
       <point x="123.551" y="31.0212" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="700"/>
-  <guideline angle="0" x="0" y="0"/>
-  <guideline angle="0" x="0" y="665"/>
-  <guideline angle="90" x="122" y="0"/>
-  <guideline angle="90" x="213" y="0"/>
-  <guideline angle="90" x="334" y="0"/>
 </glyph>

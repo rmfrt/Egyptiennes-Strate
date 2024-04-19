@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven" format="2">
   <advance width="284"/>
   <unicode hex="0037"/>
+  <guideline y="700"/>
+  <guideline y="511"/>
   <outline>
     <contour>
       <point x="162" y="632" type="line"/>
@@ -26,6 +28,4 @@
       <point x="198" y="632" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="700"/>
-  <guideline angle="0" x="0" y="511"/>
 </glyph>

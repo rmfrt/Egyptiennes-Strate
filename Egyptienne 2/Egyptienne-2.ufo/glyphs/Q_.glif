@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
   <advance width="274"/>
   <unicode hex="0051"/>
+  <guideline x="103"/>
+  <guideline y="716"/>
+  <guideline y="-16"/>
+  <guideline y="-423"/>
   <outline>
     <contour>
       <point x="89" y="677" type="line" smooth="yes"/>
@@ -95,8 +99,4 @@
       <point x="164.296" y="59.7589"/>
     </contour>
   </outline>
-  <guideline angle="90" x="103" y="0"/>
-  <guideline angle="0" x="0" y="716"/>
-  <guideline angle="0" x="0" y="-16"/>
-  <guideline angle="0" x="0" y="-423"/>
 </glyph>

@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="three" format="2">
   <advance width="315"/>
   <unicode hex="0033"/>
+  <guideline y="700"/>
+  <guideline y="705"/>
+  <guideline y="664"/>
+  <guideline y="511"/>
+  <guideline y="205"/>
   <outline>
     <contour>
       <point x="160" y="0" type="curve" smooth="yes"/>
@@ -57,9 +62,4 @@
       <point x="215" y="0"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="700"/>
-  <guideline angle="0" x="0" y="705"/>
-  <guideline angle="0" x="0" y="664"/>
-  <guideline angle="0" x="0" y="511"/>
-  <guideline angle="0" x="0" y="205"/>
 </glyph>

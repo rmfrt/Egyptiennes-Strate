@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="six" format="2">
   <advance width="320"/>
   <unicode hex="0036"/>
+  <guideline y="0"/>
+  <guideline y="511"/>
+  <guideline y="511"/>
+  <guideline y="511"/>
   <outline>
     <contour>
       <point x="126" y="288" type="line"/>
@@ -56,8 +60,4 @@
       <point x="126" y="361" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="0"/>
-  <guideline angle="0" x="0" y="511"/>
-  <guideline angle="0" x="0" y="511"/>
-  <guideline angle="0" x="0" y="511"/>
 </glyph>

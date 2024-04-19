@@ -1,3 +1,8 @@
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# Prefix: Prefix
 ###
 # OpenType Layout feature definitions
 # Format: Adobe FDK for OpenType (AFDKO) version 2.5
@@ -15,11 +20,8 @@
 #
 
 #> languagesystem
-languagesystem DFLT dflt;
-languagesystem latn dflt;
 #< languagesystem
-
-
 #
 # Lookup definitions
 #
+

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="G" format="2">
   <advance width="282"/>
   <unicode hex="0047"/>
@@ -64,8 +64,8 @@
       <point x="272" y="296" type="line"/>
       <point x="272" y="240.182" type="line"/>
       <point x="242" y="240.182" type="line"/>
-      <point x="242" y="0.962001" type="line"/>
-      <point x="166" y="0.962001" type="line"/>
+      <point x="242" y="0.962" type="line"/>
+      <point x="166" y="0.962" type="line"/>
       <point x="166" y="240.182" type="line"/>
       <point x="134" y="240.182" type="line"/>
     </contour>
