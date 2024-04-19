@@ -5,7 +5,7 @@
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
       <string>A</string>
-      <string>ABCIDEFGHIJKLMNOPQRSTUVWXYZ</string>
+      <string>ABCIlbDEFGHIJKLMNOPQRSTUVWXYZ</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3252</string>
