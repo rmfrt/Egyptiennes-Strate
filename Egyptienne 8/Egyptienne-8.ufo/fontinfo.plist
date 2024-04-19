@@ -25,10 +25,6 @@
     <string>2024/02/22 12:54:41</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
-    <key>openTypeOS2Selection</key>
-    <array>
-      <integer>7</integer>
-    </array>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>
@@ -39,9 +35,7 @@
       <integer>0</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>Unnamed-Regular</string>
-    <key>postscriptWeightName</key>
-    <string>Regular</string>
+    <string>Egyptienne8-Regular</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

@@ -8,48 +8,40 @@
   <guideline x="950"/>
   <outline>
     <contour>
+      <point x="33" y="700" type="line"/>
+      <point x="440" y="700" type="line"/>
+      <point x="440" y="620" type="line"/>
+      <point x="360" y="620" type="line"/>
+      <point x="360" y="450" type="line"/>
+      <point x="590" y="450" type="line"/>
+      <point x="590" y="620" type="line"/>
+      <point x="520" y="620" type="line"/>
+      <point x="520" y="700" type="line"/>
       <point x="920" y="700" type="line"/>
       <point x="920" y="620" type="line"/>
       <point x="840" y="620" type="line"/>
       <point x="840" y="80" type="line"/>
       <point x="920" y="80" type="line"/>
       <point x="920" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="80" type="line"/>
+      <point x="590" y="80" type="line"/>
+      <point x="590" y="280" type="line"/>
+      <point x="360" y="280" type="line"/>
+      <point x="360" y="80" type="line"/>
+      <point x="440" y="80" type="line"/>
+      <point x="440" y="0" type="line"/>
       <point x="30" y="0" type="line"/>
       <point x="30" y="80" type="line"/>
       <point x="110" y="80" type="line"/>
       <point x="110" y="620" type="line"/>
       <point x="33" y="620" type="line"/>
-      <point x="33" y="700" type="line"/>
-      <point x="410" y="700" type="line"/>
-      <point x="500" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="440" y="700" type="line"/>
-      <point x="440" y="620" type="line"/>
-      <point x="360" y="620" type="line"/>
-      <point x="360" y="450" type="line"/>
-      <point x="590" y="450" type="line"/>
-      <point x="590" y="495"/>
-      <point x="590" y="482"/>
-      <point x="590" y="620" type="curve"/>
-      <point x="520" y="620" type="line"/>
-      <point x="520" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="440" y="0" type="move"/>
-      <point x="440" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="440" y="0" type="line"/>
-      <point x="520" y="0" type="line"/>
-      <point x="520" y="80" type="line"/>
-      <point x="590" y="80" type="line"/>
-      <point x="590" y="218"/>
-      <point x="590" y="235"/>
-      <point x="590" y="280" type="curve"/>
-      <point x="360" y="280" type="line"/>
-      <point x="360" y="80" type="line"/>
-      <point x="440" y="80" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-19 10:21:32 +0000</string>
+    </dict>
+  </lib>
 </glyph>
