@@ -12,9 +12,9 @@
       <point x="332" y="0" type="line"/>
       <point x="332" y="75" type="line"/>
       <point x="250" y="75" type="line"/>
-      <point x="250" y="303" type="line"/>
-      <point x="268" y="364"/>
-      <point x="328" y="412"/>
+      <point x="250" y="260" type="line" smooth="yes"/>
+      <point x="250" y="349"/>
+      <point x="307" y="412"/>
       <point x="387" y="412" type="curve" smooth="yes"/>
       <point x="433" y="412"/>
       <point x="465" y="374"/>
@@ -25,9 +25,9 @@
       <point x="689" y="0" type="line"/>
       <point x="689" y="75" type="line"/>
       <point x="600" y="75" type="line"/>
-      <point x="600" y="303" type="line"/>
-      <point x="618" y="364"/>
-      <point x="680" y="412"/>
+      <point x="600" y="260" type="line" smooth="yes"/>
+      <point x="600" y="349"/>
+      <point x="659" y="412"/>
       <point x="742" y="412" type="curve" smooth="yes"/>
       <point x="788" y="412"/>
       <point x="820" y="374"/>
@@ -65,7 +65,7 @@
       <key>com.fontlab.metricsRight</key>
       <string>rsb("h")</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-04-19 09:24:48 +0000</string>
+      <string>2024-04-19 09:27:20 +0000</string>
     </dict>
   </lib>
 </glyph>
