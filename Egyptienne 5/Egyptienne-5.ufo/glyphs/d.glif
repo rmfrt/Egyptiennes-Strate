@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="d" format="2">
   <advance width="643"/>
   <unicode hex="0064"/>
@@ -43,11 +43,11 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>lsb("o")</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>rsb("i")</string>
-  </dict>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>lsb("o")</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>rsb("i")</string>
+    </dict>
   </lib>
 </glyph>

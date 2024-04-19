@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="u" format="2">
   <advance width="736"/>
   <unicode hex="0075"/>
+  <guideline y="700"/>
+  <guideline y="0"/>
+  <guideline y="500"/>
   <outline>
     <contour>
       <point x="30" y="500" type="line"/>
@@ -32,15 +35,12 @@
       <point x="246" y="500" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="700"/>
-  <guideline angle="0" x="0" y="0"/>
-  <guideline angle="0" x="0" y="500"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>rsb("n")</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>rsb("i")</string>
-  </dict>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>rsb("n")</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>rsb("i")</string>
+    </dict>
   </lib>
 </glyph>

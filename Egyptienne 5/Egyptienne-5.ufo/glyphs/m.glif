@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="m" format="2">
   <advance width="1074"/>
   <unicode hex="006D"/>
+  <guideline y="501"/>
+  <guideline y="0"/>
   <outline>
     <contour>
       <point x="125" y="75" type="line"/>
@@ -121,14 +123,12 @@
       <point x="588" y="344" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="501"/>
-  <guideline angle="0" x="0" y="0"/>
   <lib>
-  <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>lsb("i")</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>rsb("h")</string>
-  </dict>
+    <dict>
+      <key>com.fontlab.metricsLeft</key>
+      <string>lsb("i")</string>
+      <key>com.fontlab.metricsRight</key>
+      <string>rsb("h")</string>
+    </dict>
   </lib>
 </glyph>

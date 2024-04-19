@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
   <advance width="626"/>
   <unicode hex="0034"/>
+  <guideline y="700"/>
+  <guideline y="0"/>
   <outline>
     <contour>
       <point x="232" y="700" type="line"/>
@@ -41,6 +43,4 @@
       <point x="410" y="700" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="700"/>
-  <guideline angle="0" x="0" y="0"/>
 </glyph>
