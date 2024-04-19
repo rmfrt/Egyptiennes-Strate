@@ -5,7 +5,7 @@
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
       <string>Angel Adept Blind Bodice Clique Cuxonast Dunce Docile Enact Eosin Furlong Focal Gnome Gondola Human Hoist Inlet Iodine Justin Jocose Knoll Koala Linden Loads Milliner Modal Number Nodule Onset Oddball Pneumo Poncho Quanta Qophs Rhone Roman Snout Sodium Tundra Tocsin Uncle Udder Vulcan Vocal Whale Woman Xmas Xenon Yunnan Young Zloty Zodiac</string>
-      <string>ABCDEFGHIJKLMNXOPQRSTUVWXYZ</string>
+      <string>ABCDEFGHIJKLMNXxOPQRSTUVWXYZ</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3252</string>
@@ -14,9 +14,9 @@
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.useGlyphOrder</key>
-    <true/>
-    <key>com.schriftgestaltung.useNiceNames</key>
     <false/>
+    <key>com.schriftgestaltung.useNiceNames</key>
+    <true/>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -47,9 +47,9 @@
       <string>Ugrave</string>
       <string>V</string>
       <string>W</string>
-      <string>X</string>
       <string>Y</string>
       <string>Z</string>
+      <string>X</string>
       <string>a</string>
       <string>agrave</string>
       <string>b</string>
@@ -78,9 +78,9 @@
       <string>ugrave</string>
       <string>v</string>
       <string>w</string>
-      <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>x</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>

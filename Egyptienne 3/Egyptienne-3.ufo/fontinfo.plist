@@ -25,8 +25,6 @@
     <string>2024/04/11 07:57:55</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>
@@ -42,8 +40,6 @@
     </array>
     <key>postscriptFontName</key>
     <string>Egyptienne3-Regular</string>
-    <key>postscriptWeightName</key>
-    <string>Regular</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
