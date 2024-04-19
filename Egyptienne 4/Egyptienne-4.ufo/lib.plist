@@ -2,6 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.schriftgestaltung.DisplayStrings</key>
+    <array>
+      <string>Angel Adept Blind Bodice Clique Cuxonast Dunce Docile Enact Eosin Furlong Focal Gnome Gondola Human Hoist Inlet Iodine Justin Jocose Knoll Koala Linden Loads Milliner Modal Number Nodule Onset Oddball Pneumo Poncho Quanta Qophs Rhone Roman Snout Sodium Tundra Tocsin Uncle Udder Vulcan Vocal Whale Woman Xmas Xenon Yunnan Young Zloty Zodiac</string>
+      <string>ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    </array>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>3252</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.formatVersion</key>
@@ -84,6 +91,7 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>space</string>
       <string>period</string>
       <string>comma</string>
       <string>colon</string>
