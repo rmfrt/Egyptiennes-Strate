@@ -17,6 +17,12 @@
         </dict>
       </dict>
     </dict>
+    <key>com.schriftgestaltung.DisplayStrings</key>
+    <array>
+      <string>AngelAdeptBlindBodiceCliqueCoastDunceDocileEnactEosinFurlongFocalGnomeGondolaHumanHoistInletIodineJustinJocoseKnollKoalaLindenLoadsMillinerModalNumberNoduleOnsetOddballPneumoPonchoQuantaQophsRhoneRomanSnoutSodiumTundraTocsinUncleUdderVulcanVocalWhaleWomanXmasXenonYunnanYoungZlotyZodiac</string>
+      <string>l</string>
+      <string> </string>
+    </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3252</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
@@ -81,6 +87,7 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>space</string>
       <string>CR</string>
       <string>.notdef</string>
       <string>period</string>
