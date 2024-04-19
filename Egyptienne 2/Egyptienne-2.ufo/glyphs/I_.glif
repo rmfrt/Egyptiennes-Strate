@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="130"/>
+  <unicode hex="0049"/>
+  <guideline y="700"/>
+  <guideline y="0"/>
+  <guideline x="208"/>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="119" y="40" type="line"/>
+      <point x="105" y="40" type="line"/>
+      <point x="105" y="660" type="line"/>
+      <point x="119" y="660" type="line"/>
+      <point x="119" y="700" type="line"/>
+      <point x="11" y="700" type="line"/>
+      <point x="11" y="660" type="line"/>
+      <point x="25" y="660" type="line"/>
+      <point x="25" y="40" type="line"/>
+      <point x="11" y="40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-04-19 07:44:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>
