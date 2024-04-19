@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a" format="2">
   <advance width="421"/>
-  <unicode hex="0061"/>
-  <note>
-a
-</note>
   <outline>
     <contour>
       <point x="102" y="332" type="curve"/>
@@ -20,18 +16,18 @@ a
       <point x="350" y="46"/>
       <point x="370" y="46" type="curve" smooth="yes"/>
       <point x="381" y="46"/>
-      <point x="395" y="48"/>
-      <point x="410" y="52" type="curve"/>
+      <point x="395" y="47"/>
+      <point x="410" y="50" type="curve"/>
       <point x="410" y="1" type="line"/>
-      <point x="390" y="-6"/>
-      <point x="367" y="-10"/>
+      <point x="385" y="-7"/>
+      <point x="360" y="-11"/>
       <point x="341" y="-10" type="curve" smooth="yes"/>
-      <point x="294" y="-10"/>
-      <point x="261" y="30"/>
-      <point x="261" y="86" type="curve"/>
-      <point x="284" y="58" type="line"/>
-      <point x="258" y="14"/>
-      <point x="216" y="-10"/>
+      <point x="305" y="-9"/>
+      <point x="256" y="30"/>
+      <point x="272" y="66" type="curve"/>
+      <point x="284" y="48" type="line"/>
+      <point x="264" y="40"/>
+      <point x="240" y="-10"/>
       <point x="166" y="-10" type="curve" smooth="yes"/>
       <point x="66" y="-10"/>
       <point x="16" y="43"/>
@@ -48,7 +44,7 @@ a
       <point x="97" y="415"/>
     </contour>
     <contour>
-      <point x="260" y="188" type="curve" smooth="yes"/>
+      <point x="260" y="171" type="curve" smooth="yes"/>
       <point x="260" y="243" type="line"/>
       <point x="214" y="243" type="line" smooth="yes"/>
       <point x="136" y="243"/>
@@ -57,14 +53,8 @@ a
       <point x="102" y="89"/>
       <point x="128" y="50"/>
       <point x="180" y="50" type="curve" smooth="yes"/>
-      <point x="233" y="50"/>
-      <point x="260" y="96"/>
+      <point x="235" y="50"/>
+      <point x="260" y="117"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-04-19 08:33:33 +0000</string>
-    </dict>
-  </lib>
 </glyph>
