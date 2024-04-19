@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="P" format="2">
   <advance width="649"/>
   <unicode hex="0050"/>
+  <guideline y="490"/>
   <outline>
     <contour>
       <point x="0" y="80" type="line"/>
@@ -34,5 +35,4 @@
       <point x="250" y="390" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="490"/>
 </glyph>

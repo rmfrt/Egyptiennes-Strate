@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="x" format="2">
   <advance width="524"/>
   <unicode hex="0078"/>
+  <guideline y="490"/>
   <outline>
     <contour>
       <point x="283" y="334" type="move"/>
@@ -40,11 +41,10 @@
       <point x="130" y="50" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="490"/>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6,0.99,1</string>
+    </dict>
   </lib>
 </glyph>
