@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o" format="2">
   <advance width="402"/>
   <unicode hex="006F"/>
   <note>
-o</note>
+o
+</note>
   <outline>
     <contour>
       <point x="198" y="510" type="curve" smooth="yes"/>
@@ -34,10 +35,4 @@ o</note>
       <point x="268" y="448"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.schriftgestaltung.Glyphs.lastChange</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

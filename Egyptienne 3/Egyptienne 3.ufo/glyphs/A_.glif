@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
   <advance width="670"/>
   <unicode hex="0041"/>
   <note>
-A</note>
+A
+</note>
+  <guideline x="325"/>
   <outline>
     <contour>
       <point x="0" y="70" type="line"/>
@@ -29,5 +31,4 @@ A</note>
       <point x="325" y="550" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="325" y="0"/>
 </glyph>

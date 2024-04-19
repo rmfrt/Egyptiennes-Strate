@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero" format="2">
   <advance width="572"/>
   <note>
-zero</note>
+zero
+</note>
   <outline>
     <contour>
       <point x="282" y="696" type="curve" smooth="yes"/>

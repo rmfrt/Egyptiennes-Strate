@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="s" format="2">
   <advance width="390"/>
   <unicode hex="0073"/>
   <note>
-s</note>
+s
+</note>
+  <guideline x="26"/>
   <outline>
     <contour>
       <point x="272" y="460" type="curve"/>
@@ -49,5 +51,4 @@ s</note>
       <point x="263" y="469"/>
     </contour>
   </outline>
-  <guideline angle="90" x="26" y="0"/>
 </glyph>

@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
   <advance width="638"/>
   <unicode hex="004C"/>
   <note>
-L</note>
+L
+</note>
   <outline>
     <contour>
       <point x="323" y="630" type="line"/>

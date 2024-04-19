@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="B" format="2">
   <advance width="600"/>
   <unicode hex="0042"/>
   <note>
-B</note>
+B
+</note>
   <outline>
     <contour>
       <point x="345" y="700" type="curve" smooth="yes"/>

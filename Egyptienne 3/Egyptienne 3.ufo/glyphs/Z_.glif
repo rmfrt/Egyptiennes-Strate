@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z" format="2">
   <advance width="492"/>
   <unicode hex="005A"/>
   <note>
-Z</note>
+Z
+</note>
   <outline>
     <contour>
       <point x="337" y="612" type="line"/>

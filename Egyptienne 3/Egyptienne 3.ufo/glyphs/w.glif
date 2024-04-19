@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w" format="2">
   <advance width="756"/>
   <unicode hex="0077"/>
   <note>
-w</note>
+w
+</note>
   <outline>
     <contour>
       <point x="244" y="444" type="line"/>
@@ -74,10 +75,4 @@ w</note>
       <point x="436" y="444" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.schriftgestaltung.Glyphs.lastChange</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

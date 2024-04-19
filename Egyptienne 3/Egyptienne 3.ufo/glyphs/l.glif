@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
   <advance width="270"/>
   <unicode hex="006C"/>
   <note>
-l</note>
+l
+</note>
   <outline>
     <contour>
       <point x="175" y="56" type="line"/>
@@ -18,10 +19,4 @@ l</note>
       <point x="240" y="56" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.schriftgestaltung.Glyphs.lastChange</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

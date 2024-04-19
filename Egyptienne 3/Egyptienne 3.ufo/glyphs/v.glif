@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v" format="2">
   <advance width="499"/>
   <unicode hex="0076"/>
   <note>
-v</note>
+v
+</note>
+  <guideline y="110"/>
   <outline>
     <contour>
       <point x="244" y="444" type="line"/>
@@ -23,5 +25,4 @@ v</note>
       <point x="179" y="444" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="110"/>
 </glyph>
