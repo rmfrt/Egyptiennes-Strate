@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="2">
+  <advance width="950"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="920" y="700" type="line"/>
+      <point x="920" y="620" type="line"/>
+      <point x="840" y="620" type="line"/>
+      <point x="840" y="80" type="line"/>
+      <point x="920" y="80" type="line"/>
+      <point x="920" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="110" y="80" type="line"/>
+      <point x="110" y="620" type="line"/>
+      <point x="33" y="620" type="line"/>
+      <point x="33" y="700" type="line"/>
+      <point x="410" y="700" type="line"/>
+      <point x="500" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="700" type="line"/>
+      <point x="440" y="620" type="line"/>
+      <point x="360" y="620" type="line"/>
+      <point x="360" y="450" type="line"/>
+      <point x="590" y="450" type="line"/>
+      <point x="590" y="495"/>
+      <point x="590" y="482"/>
+      <point x="590" y="620" type="curve"/>
+      <point x="520" y="620" type="line"/>
+      <point x="520" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="0" type="move"/>
+      <point x="440" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="80" type="line"/>
+      <point x="590" y="80" type="line"/>
+      <point x="590" y="218"/>
+      <point x="590" y="235"/>
+      <point x="590" y="280" type="curve"/>
+      <point x="360" y="280" type="line"/>
+      <point x="360" y="80" type="line"/>
+      <point x="440" y="80" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="700"/>
+  <guideline angle="90" x="-50" y="0"/>
+  <guideline angle="90" x="711" y="0"/>
+  <guideline angle="90" x="950" y="0"/>
+</glyph>
