@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="2">
+  <advance width="228"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="10" y="2" type="line"/>
+      <point x="112" y="2" type="line"/>
+      <point x="112" y="40" type="line"/>
+      <point x="100" y="40" type="line"/>
+      <point x="100" y="361" type="line"/>
+      <point x="129" y="361" type="line"/>
+      <point x="129" y="40" type="line"/>
+      <point x="116" y="40" type="line"/>
+      <point x="116" y="2" type="line"/>
+      <point x="218" y="2" type="line"/>
+      <point x="218" y="40" type="line"/>
+      <point x="204" y="40" type="line"/>
+      <point x="204" y="660" type="line"/>
+      <point x="218" y="660" type="line"/>
+      <point x="218" y="700" type="line"/>
+      <point x="116" y="700" type="line"/>
+      <point x="116" y="660" type="line"/>
+      <point x="129" y="660" type="line"/>
+      <point x="129" y="424" type="line"/>
+      <point x="100" y="424" type="line"/>
+      <point x="100" y="660" type="line"/>
+      <point x="112" y="660" type="line"/>
+      <point x="112" y="700" type="line"/>
+      <point x="10" y="700" type="line"/>
+      <point x="10" y="660" type="line"/>
+      <point x="24" y="660" type="line"/>
+      <point x="24" y="40" type="line"/>
+      <point x="10" y="40" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="29" y="0"/>
+  <guideline angle="90" x="133" y="0"/>
+  <guideline angle="90" x="173" y="0"/>
+  <guideline angle="0" x="0" y="792"/>
+  <guideline angle="90" x="-1246" y="0"/>
+  <guideline angle="0" x="0" y="361"/>
+  <guideline angle="90" x="-556" y="0"/>
+  <guideline angle="90" x="924" y="0"/>
+  <guideline angle="90" x="903" y="0"/>
+  <guideline angle="90" x="943" y="0"/>
+</glyph>

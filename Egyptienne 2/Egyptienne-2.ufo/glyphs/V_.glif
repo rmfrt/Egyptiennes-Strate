@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="2">
+  <advance width="249"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="162.677" y="1.3435" type="curve"/>
+      <point x="98.6965" y="665.842" type="line"/>
+      <point x="111.224" y="666.239" type="line"/>
+      <point x="111.097" y="700.223" type="line"/>
+      <point x="10.611" y="699.975" type="line"/>
+      <point x="11.5375" y="665.325" type="line"/>
+      <point x="25.531" y="665.855" type="line"/>
+      <point x="85.913" y="0.291504" type="line"/>
+      <point x="85.913" y="0.291504"/>
+      <point x="145.818" y="-0.185996"/>
+    </contour>
+    <contour>
+      <point x="150.303" y="665.842" type="line"/>
+      <point x="137.776" y="666.239" type="line"/>
+      <point x="137.903" y="700.223" type="line"/>
+      <point x="238.389" y="699.975" type="line"/>
+      <point x="237.462" y="665.325" type="line"/>
+      <point x="223.469" y="665.855" type="line"/>
+      <point x="163.087" y="0.291504" type="line"/>
+      <point x="163.087" y="0.291504"/>
+      <point x="87.056" y="1.277"/>
+      <point x="87.056" y="1.277" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="700"/>
+  <guideline angle="0" x="0" y="0"/>
+</glyph>
